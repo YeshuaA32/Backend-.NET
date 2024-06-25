@@ -7,6 +7,18 @@
       "RelativeMoniker": "D:0:0:{27A764B0-5CC9-4CEA-BF9D-8FA7506D3D97}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|solutionrelative:sistemaventa.dal\\repositorios\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{27A764B0-5CC9-4CEA-BF9D-8FA7506D3D97}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|c:\\.net\\apisistemaventa\\sistemaventa.dal\\repositorios\\ventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27A764B0-5CC9-4CEA-BF9D-8FA7506D3D97}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|solutionrelative:sistemaventa.dal\\repositorios\\ventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0368C897-7681-4058-ACFC-D5858DFAE93B}|SistemaVenta.IOC\\SistemaVenta.IOC.csproj|c:\\.net\\apisistemaventa\\sistemaventa.ioc\\dependencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0368C897-7681-4058-ACFC-D5858DFAE93B}|SistemaVenta.IOC\\SistemaVenta.IOC.csproj|solutionrelative:sistemaventa.ioc\\dependencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27A764B0-5CC9-4CEA-BF9D-8FA7506D3D97}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|c:\\.net\\apisistemaventa\\sistemaventa.dal\\repositorios\\contrato\\iventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27A764B0-5CC9-4CEA-BF9D-8FA7506D3D97}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|solutionrelative:sistemaventa.dal\\repositorios\\contrato\\iventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{27A764B0-5CC9-4CEA-BF9D-8FA7506D3D97}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|c:\\.net\\apisistemaventa\\sistemaventa.dal\\repositorios\\contrato\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27A764B0-5CC9-4CEA-BF9D-8FA7506D3D97}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|solutionrelative:sistemaventa.dal\\repositorios\\contrato\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,8 +30,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dependencia.cs",
+              "DocumentMoniker": "C:\\.Net\\APISistemaVenta\\SistemaVenta.IOC\\Dependencia.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.IOC\\Dependencia.cs",
+              "ToolTip": "C:\\.Net\\APISistemaVenta\\SistemaVenta.IOC\\Dependencia.cs",
+              "RelativeToolTip": "SistemaVenta.IOC\\Dependencia.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T02:56:54.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VentaRepository.cs",
+              "DocumentMoniker": "C:\\.Net\\APISistemaVenta\\SistemaVenta.DAL\\Repositorios\\VentaRepository.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.DAL\\Repositorios\\VentaRepository.cs",
+              "ToolTip": "C:\\.Net\\APISistemaVenta\\SistemaVenta.DAL\\Repositorios\\VentaRepository.cs",
+              "RelativeToolTip": "SistemaVenta.DAL\\Repositorios\\VentaRepository.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwEkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T02:30:26.734Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,20 +66,33 @@
               "RelativeDocumentMoniker": "SistemaVenta.DAL\\Repositorios\\GenericRepository.cs",
               "ToolTip": "C:\\.Net\\APISistemaVenta\\SistemaVenta.DAL\\Repositorios\\GenericRepository.cs",
               "RelativeToolTip": "SistemaVenta.DAL\\Repositorios\\GenericRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwCIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T02:29:42.353Z",
+              "WhenOpened": "2024-06-25T02:19:22.131Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "IVentaRepository.cs",
+              "DocumentMoniker": "C:\\.Net\\APISistemaVenta\\SistemaVenta.DAL\\Repositorios\\Contrato\\IVentaRepository.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.DAL\\Repositorios\\Contrato\\IVentaRepository.cs",
+              "ToolTip": "C:\\.Net\\APISistemaVenta\\SistemaVenta.DAL\\Repositorios\\Contrato\\IVentaRepository.cs",
+              "RelativeToolTip": "SistemaVenta.DAL\\Repositorios\\Contrato\\IVentaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T02:17:15.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "IGenericRepository.cs",
               "DocumentMoniker": "C:\\.Net\\APISistemaVenta\\SistemaVenta.DAL\\Repositorios\\Contrato\\IGenericRepository.cs",
               "RelativeDocumentMoniker": "SistemaVenta.DAL\\Repositorios\\Contrato\\IGenericRepository.cs",
               "ToolTip": "C:\\.Net\\APISistemaVenta\\SistemaVenta.DAL\\Repositorios\\Contrato\\IGenericRepository.cs",
               "RelativeToolTip": "SistemaVenta.DAL\\Repositorios\\Contrato\\IGenericRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-16T02:26:59.497Z",
               "EditorCaption": ""

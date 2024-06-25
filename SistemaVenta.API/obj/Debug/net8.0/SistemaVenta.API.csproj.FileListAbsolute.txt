@@ -1,5 +1,4 @@
 C:\.Net\APISistemaVenta\SistemaVenta.API\bin\Debug\net8.0\appsettings.Development.json
-C:\.Net\APISistemaVenta\SistemaVenta.API\bin\Debug\net8.0\appsettings.json
 C:\.Net\APISistemaVenta\SistemaVenta.API\bin\Debug\net8.0\SistemaVenta.API.exe
 C:\.Net\APISistemaVenta\SistemaVenta.API\bin\Debug\net8.0\SistemaVenta.API.deps.json
 C:\.Net\APISistemaVenta\SistemaVenta.API\bin\Debug\net8.0\SistemaVenta.API.runtimeconfig.json
@@ -80,3 +79,4 @@ C:\.Net\APISistemaVenta\SistemaVenta.API\bin\Debug\net8.0\SistemaVenta.IOC.pdb
 C:\.Net\APISistemaVenta\SistemaVenta.API\bin\Debug\net8.0\SistemaVenta.DAL.pdb
 C:\.Net\APISistemaVenta\SistemaVenta.API\bin\Debug\net8.0\SistemaVenta.Model.pdb
 C:\.Net\APISistemaVenta\SistemaVenta.API\bin\Debug\net8.0\SistemaVenta.Utility.pdb
+C:\.Net\APISistemaVenta\SistemaVenta.API\obj\Debug\net8.0\SistemaVenta.API.sourcelink.json

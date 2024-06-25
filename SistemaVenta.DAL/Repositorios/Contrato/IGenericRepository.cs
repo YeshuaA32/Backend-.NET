@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 using System.Linq.Expressions;
+using SistemaVenta.Model;
 
 namespace SistemaVenta.DAL.Repositorios.Contrato
 {
@@ -15,5 +16,6 @@ namespace SistemaVenta.DAL.Repositorios.Contrato
         Task<bool> Editar(TModel modelo);
         Task<bool> Eliminar(TModel modelo);
         Task<IQueryable<TModel>> Consulta(Expression<Func<TModel, bool>> filtro = null);
+        Task<Venta> Registrar(Venta modelo);
     }
 }
