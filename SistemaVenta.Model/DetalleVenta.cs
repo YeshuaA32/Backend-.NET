@@ -20,4 +20,5 @@ public partial class DetalleVenta
     public virtual Producto? IdProductoNavigation { get; set; }
 
     public virtual Venta? IdVentaNavigation { get; set; }
+    public object FechaRegistro { get; set; }
 }

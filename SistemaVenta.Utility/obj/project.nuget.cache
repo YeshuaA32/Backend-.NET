@@ -1,13 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "hL7YyaKqVclY5sl4IZ4RawAdiIy7seGCKYW+OowBLZ4hwnmek7MDzrQ7W14yS6HPIpefQ4XpTrURxT+AQDzYuA==",
+  "dgSpecHash": "6NisiusYBnimpvEstbLCGWhFifcf5mSJn9byJGkXDIJC6EHmTMTC49n3YMm1xY5aqRCyC4juJ9NLyhfJ/cXnOA==",
   "success": true,
   "projectFilePath": "C:\\.Net\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\benjamin.alonzo\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\benjamin.alonzo\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "C:\\Users\\benjamin.alonzo\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\benjamin.alonzo\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\benjamin.alonzo\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
-    "C:\\Users\\benjamin.alonzo\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\benjamin.alonzo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\benjamin.alonzo\\.nuget\\packages\\microsoft.data.sqlclient\\5.1.5\\microsoft.data.sqlclient.5.1.5.nupkg.sha512",
     "C:\\Users\\benjamin.alonzo\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\5.1.1\\microsoft.data.sqlclient.sni.runtime.5.1.1.nupkg.sha512",
     "C:\\Users\\benjamin.alonzo\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.4\\microsoft.entityframeworkcore.8.0.4.nupkg.sha512",
